@@ -1,0 +1,17 @@
+﻿.gradle/
+build/
+out/
+target/
+bin/
+obj/
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.pyc
+*.pyo
+*.class
+*.jar
+*.log
+.idea/
+.vscode/
